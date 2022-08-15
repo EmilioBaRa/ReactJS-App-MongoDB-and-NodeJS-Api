@@ -1,0 +1,17 @@
+{
+  "name": "Lab9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "redoc-cli": "^0.13.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "redoc-cli build mb-api-spec.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
